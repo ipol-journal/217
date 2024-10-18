@@ -1,0 +1,6 @@
+11/07/2016 :
+	* version 2.0
+	* occultation.c (set_nan_disparities) : add absolute and relative consistency
+	test
+	* rdpof1D.cpp (main) : add a binary mask file to indicate if disparity is
+	Nan to be compatible to s2p.
